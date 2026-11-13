@@ -1,0 +1,6 @@
+opencv-python
+pyzbar
+RPi.GPIO
+adafruit-circuitpython-dht
+pandas
+Pillow
