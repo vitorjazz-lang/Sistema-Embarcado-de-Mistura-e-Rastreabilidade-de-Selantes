@@ -19,14 +19,6 @@ O projeto consiste em uma **estação automatizada de mistura de selantes indust
 
 ---
 
-## 📸 Demonstração
-
-> *(Dica: Salve uma foto da máquina ou print da interface IHM Touchscreen como `preview.png` dentro da pasta `assets/` para exibi-la aqui!)*
-
-![IHM e Estação de Selantes](assets/preview.png)
-
----
-
 ## 🛠️ Tecnologias e Hardware Utilizados
 
 ### Software
@@ -54,7 +46,7 @@ O projeto consiste em uma **estação automatizada de mistura de selantes indust
 
 1. **Clone este repositório:**
    ```bash
-   git clone https://github.com/SEU-USUARIO/maquina-selante-automacao.git
+   git clone https://github.com/vitorjazz-lang/Sistema-Embarcado-de-Mistura-e-Rastreabilidade-de-Selantes.git
    cd maquina-selante-automacao
    ```
 
